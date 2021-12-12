@@ -1,0 +1,13 @@
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\bin\Debug\netcoreapp3.1\ArrayColection.exe
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\bin\Debug\netcoreapp3.1\ArrayColection.deps.json
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\bin\Debug\netcoreapp3.1\ArrayColection.runtimeconfig.json
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\bin\Debug\netcoreapp3.1\ArrayColection.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\bin\Debug\netcoreapp3.1\ArrayColection.dll
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\bin\Debug\netcoreapp3.1\ArrayColection.pdb
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.csprojAssemblyReference.cache
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.dll
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.pdb
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ForCommand\ArrayColection\obj\Debug\netcoreapp3.1\ArrayColection.genruntimeconfig.cache
