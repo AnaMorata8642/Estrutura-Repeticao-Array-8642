@@ -25,6 +25,11 @@ namespace ArrayColection
             {
                 Console.WriteLine(alunos);
             }
+            //////////////////////////////////////////////////////////
+            for (int i = 0; i < alunos.Length; i++)
+            {
+                Console.WriteLine($"Os nomes são: {alunos[i]}");
+            }
         }
     }
 }
